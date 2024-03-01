@@ -154,9 +154,6 @@ devDependencies:
   eslint-plugin-storybook:
     specifier: ^0.6.12
     version: 0.6.15(eslint@8.57.0)(typescript@5.3.3)
-  husky:
-    specifier: ^8.0.3
-    version: 8.0.3
   jest:
     specifier: ^29.5.0
     version: 29.7.0(@types/node@18.19.21)(ts-node@10.9.2)
@@ -14267,12 +14264,6 @@ packages:
 
   /humanize-duration@3.31.0:
     resolution: {integrity: sha512-fRrehgBG26NNZysRlTq1S+HPtDpp3u+Jzdc/d5A4cEzOD86YLAkDaJyJg8krSdCi7CJ+s7ht3fwRj8Dl+Btd0w==}
-    dev: true
-
-  /husky@8.0.3:
-    resolution: {integrity: sha512-+dQSyqPh4x1hlO1swXBiNb2HzTDN1I2IGLQx1GrBuiqFJfoMrnZWwVmatvSiO+Iz8fBUnf+lekwNo4c2LlXItg==}
-    engines: {node: '>=14'}
-    hasBin: true
     dev: true
 
   /i18next@23.10.0:
