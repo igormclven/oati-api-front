@@ -2,4 +2,6 @@
 
 Sencillo ejemplo de implementación de consumo de un API con Angular Material.
 
-Frotend: https://oati-front.netlify.app/
+Frontend: https://oati-front.netlify.app/
+
+Repo Back: https://github.com/igormclven/oati-golang-api/
